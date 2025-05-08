@@ -1,6 +1,7 @@
 #terraform init
 #terraform plan
 #terraform apply
+#ver en terraform registry for full templates
 
 terraform {
   required_providers {
